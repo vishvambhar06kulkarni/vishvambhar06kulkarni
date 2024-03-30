@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishvambhar06kulkarni
 - 👀 I’m interested in Data Science and Analytics, Machine Learning
 - 🌱 I’m currently learning Data science, Machine Learing, Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Computer Vision Projects
 - 📫 How to reach me email id vishvambhar96@gmail.com or vishvambhar06@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: I am a self Driving Cars enthusiast.
